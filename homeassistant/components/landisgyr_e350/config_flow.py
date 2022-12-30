@@ -37,6 +37,7 @@ class E350ConfigFlow(config_entries.ConfigFlow, domain=DOMAIN):
 
             validate_data = {
                 CONF_PORT: dev_path,
+                CONF_SERIAL_ID: "0000",
             }
 
             data = await self.async_validate_connection(validate_data, errors)
