@@ -1,5 +1,5 @@
 {
-  "domain": "landis_gyr_e350",
+  "domain": "landisgyr_e350",
   "name": "Landis+Gyr Power Meter E350",
   "documentation": "https://www.home-assistant.io/integrations/dsmr",
   "requirements": ["pyserial==3.5", "pyserial-asyncio==0.6"],

@@ -5,7 +5,7 @@ import logging
 
 from homeassistant.const import Platform
 
-DOMAIN = "landis_gyr_e350"
+DOMAIN = "landisgyr_e350"
 
 LOGGER = logging.getLogger(__package__)
 

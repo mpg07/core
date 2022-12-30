@@ -2728,7 +2728,7 @@
       "config_flow": true,
       "iot_class": "local_polling"
     },
-    "landis_gyr_e350": {
+    "landisgyr_e350": {
       "name": "Landis+Gyr Power Meter E350",
       "integration_type": "hub",
       "config_flow": true,
