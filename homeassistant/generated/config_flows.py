@@ -217,6 +217,7 @@ FLOWS = {
         "kulersky",
         "lacrosse_view",
         "lametric",
+        "landis_gyr_e350",
         "landisgyr_heat_meter",
         "launch_library",
         "laundrify",
